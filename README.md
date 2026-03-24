@@ -10,9 +10,8 @@ This project demonstrates how to build a KPI dashboard in Tableau to analyze bus
 ---
 
 ## 📊 Dashboard Preview
-<img width="608" height="392" alt="Dashboard Excel" src="https://github.com/user-attachments/assets/847f3230-b4a0-4b09-96a3-eb1e08a5b5cd" />
-<img width="570" height="400" alt="Excel Dasboard png" src="https://github.com/user-attachments/assets/2f680c1d-4331-4ed9-97e2-666ce4c1379f" />
 
+<img width="215" height="77" alt="image" src="https://github.com/user-attachments/assets/a836a806-a056-411b-b24a-175abca49811" />
 
 
 ---
